@@ -1,3 +1,3 @@
 # fundamento-de-algoritmia
-#jose diaz
+#jose diaz  
 # bbrayan lopez
