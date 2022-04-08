@@ -11,3 +11,4 @@
 ## evaluación
 ## créditos
 ## material complementario
+##la pagina de inicio contiene  una breve introduccion del contenido inicial de nuestro REDA y a que va enfocado
