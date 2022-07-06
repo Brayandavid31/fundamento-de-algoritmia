@@ -1,6 +1,7 @@
 ## Historia de colombia
 ## jose diaz  
 ## brayan lopez
+## keivis jaramillo
 ## Franklin Martínez Docente
 ## este reda se está haciendo con el fin de informar sobre la historia de Colombia y ayudar a los estudiantes de 9° y 10° grado a comprender mejor la historia de nuestro pais en la decada del 80 o la era del narcotrafico 
 
