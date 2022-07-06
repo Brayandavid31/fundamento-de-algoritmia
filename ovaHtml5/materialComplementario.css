@@ -35,12 +35,11 @@ footer{
         text-decoration: none;
         float:left;
         padding: 10px;
-        background-color: #df441d;
+        background-color: #1359f1;
         color: #fff;
         }
-
         #button li a:hover {
-            background-color: #2563d7;
+            background-color: #25d769;
             margin-top:-2px;
             padding-bottom:12px;
             }
