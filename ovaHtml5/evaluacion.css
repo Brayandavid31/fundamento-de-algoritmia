@@ -1,0 +1,35 @@
+.menu{
+	list-style: none;
+	padding: 0;
+	background: blue;
+	width: 90%;
+	max-width: 1000px;
+	margin: auto;
+}
+
+.menu li a{
+	text-decoration: none;
+	color: white;
+	padding: 20px;
+	display: block;
+}
+
+.menu li{
+	display: inline-block;
+	text-align: center;
+}
+
+.menu li a:hover{
+	background: green;
+}
+
+footer{
+    background-color: rgb(151, 193, 228);
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    text-align: center;
+   font-size: 15px;
+    
+}
+.r:hover{
+    background-color: brown;
+}
