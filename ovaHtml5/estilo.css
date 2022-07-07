@@ -1,12 +1,6 @@
-footer{
-    background-color: rgb(151, 193, 228);
-    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
-    text-align: center;
-   font-size: 15px;
-    
-}
-.r:hover{
-    background-color: brown;
+body{
+	font-family: arial, helvetica;
+	background: #e8e8e8;
 }
 
 .menu{
