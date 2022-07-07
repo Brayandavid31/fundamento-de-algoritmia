@@ -37,21 +37,28 @@ footer{
 .r:hover{
     background-color: brown;
 }
-#button li {
-    display: inline;
-    }
-    
-    #button li a {
-        font-family: Arial;
-        font-size:11px;
-        text-decoration: none;
-        float:left;
-        padding: 10px;
-        background-color: #1359f1;
-        color: #fff;
-        }
-        #button li a:hover {
-            background-color: #25d769;
-            margin-top:-2px;
-            padding-bottom:12px;
-            }
+
+.menu{
+	list-style: none;
+	padding: 0;
+	background: blue;
+	width: 90%;
+	max-width: 1000px;
+	margin: auto;
+}
+
+.menu li a{
+	text-decoration: none;
+	color: white;
+	padding: 20px;
+	display: block;
+}
+
+.menu li{
+	display: inline-block;
+	text-align: center;
+}
+
+.menu li a:hover{
+	background: green;
+}
