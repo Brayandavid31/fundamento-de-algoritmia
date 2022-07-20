@@ -42,8 +42,6 @@ footer{
 	list-style: none;
 	padding: 0;
 	background: blue;
-	width: 90%;
-	max-width: 1000px;
 	margin: auto;
 }
 
@@ -52,6 +50,7 @@ footer{
 	color: white;
 	padding: 20px;
 	display: block;
+	
 }
 
 .menu li{
