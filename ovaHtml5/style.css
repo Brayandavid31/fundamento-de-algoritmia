@@ -1,12 +1,12 @@
 .recuadro{
     width: 600px;
     height: 130px;
-    background-color: rgb(38, 205, 235);
+    background-color: white;
     border-radius: 15px;
  }
  .titulo{
      width: 585px;
-     background-color: rgb(25, 108, 202);
+     background-color: rgb(14, 166, 226);
      padding-left: 15px;
      color:white;
     
