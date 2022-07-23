@@ -33,3 +33,39 @@ footer{
 .r:hover{
     background-color: brown;
 }
+
+.recuadro{
+	width: 600px;
+	height: 130px;
+	background-color: rgb(38, 205, 235);
+	border-radius: 15px;
+ }
+ .titulo{
+	 width: 585px;
+	 background-color: rgb(25, 108, 202);
+	 padding-left: 15px;
+	 color:white;
+	
+ }
+ 
+ .boton{
+	 margin-top: 10px;
+	 margin-left: 20px;
+ }
+ 
+ .correcta{
+   background-image: url(./img/correcta.jpg);
+   background-size: contain;
+   width: 80px;
+   height: 80px;
+  
+ }
+ 
+ .incorrecta{
+	 background-image: url(./img/incorrecta.jpg);
+	 background-size: contain;
+	 background-repeat: no-repeat;
+	 width: 80px;
+	 height: 80px;
+ 
+ }
