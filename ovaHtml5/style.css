@@ -3,6 +3,36 @@ body.background{
     
   }
 
+  h1{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 30px;
+    font-weight: bold;
+   
+    color: rgb(255, 255, 255);
+}
+h2{
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 20px;
+    color: rgb(255, 255, 255);
+    
+
+}
+
+
+p{
+font-family: Verdana, Geneva, Tahoma, sans-serif;
+font-size: larger;
+font-size: 15px;
+color: rgb(255, 255, 255);
+text-align: justify;
+
+
+}
+h3{ font-family: Verdana, Geneva, Tahoma, sans-serif;
+color: rgb(255, 255, 255);
+
+}
+
 .recuadro{
     width: 600px;
     height: 130px;
