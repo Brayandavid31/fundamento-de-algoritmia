@@ -34,14 +34,14 @@ color: rgb(226, 11, 11);
 
 }
 footer{
-    background-color: rgb(202, 28, 173);
-    font-family:Verdana, Geneva, Tahoma, sans-serif;
-    text-align: center;
-   font-size: 15px;
-    
+  background-color: rgb(202, 28, 173);
+  font-family:Verdana, Geneva, Tahoma, sans-serif;
+  text-align: center;
+ font-size: 15px;
+  
 }
 .r:hover{
-    background-color: rgb(69, 42, 165);
+  background-color: rgb(69, 42, 165);
 }
 #menu ul li {
     background-color:#173768;
