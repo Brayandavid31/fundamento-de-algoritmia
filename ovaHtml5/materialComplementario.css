@@ -1,49 +1,99 @@
+body.background{
+  min-height: 50%;
+  
+}
+
+
 h1{
-    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
     font-size: 30px;
     font-weight: bold;
    
-    color: rgb(3, 3, 3); }
-    p{
-font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color: rgb(255, 255, 255);
+}
+h2{
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 20px;
+    color: rgb(255, 255, 255);
+    
+
+}
+
+
+p{
+font-family: Verdana, Geneva, Tahoma, sans-serif;
 font-size: larger;
-font-size: 20px;
-color: rgb(17, 16, 16);
+font-size: 15px;
+color: rgb(255, 255, 255);
 text-align: justify;
+
+
+}
+h3{ font-family: Verdana, Geneva, Tahoma, sans-serif;
+color: rgb(226, 11, 11);
 
 }
 footer{
-    background-color: rgb(151, 193, 228);
-    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    background-color: rgb(202, 28, 173);
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
     text-align: center;
    font-size: 15px;
     
 }
 .r:hover{
-    background-color: brown;
+    background-color: rgb(69, 42, 165);
+}
+#menu ul li {
+    background-color:#173768;
 }
 
-.menu{
-	list-style: none;
-	padding: 0;
-	background: blue;
-	width: 90%;
-	max-width: 1000px;
-	margin: auto;
+#menu ul {
+  list-style:none;
+  margin:0;
+  padding:0;
 }
 
-.menu li a{
-	text-decoration: none;
-	color: white;
-	padding: 20px;
-	display: block;
+#menu ul a {
+  display:block;
+  color:#fff;
+  text-decoration:none;
+  font-weight:400;
+  font-size:15px;
+  padding:10px;
+  font-family:"HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  text-transform:uppercase;
+  letter-spacing:1px;
 }
 
-.menu li{
-	display: inline-block;
-	text-align: center;
+#menu ul li {
+  position:relative;
+  float:left;
+  margin:0;
+  padding:0;
 }
 
-.menu li a:hover{
-	background: green;
+#menu ul li:hover {
+  background:#5b78a7;
+}
+
+#menu ul ul {
+  display:none;
+  position:absolute;
+  top:100%;
+  left:0;
+  padding:0;
+}
+
+#menu ul ul li {
+  float:none;
+  width:150px
+}
+
+#menu ul ul a {
+  line-height:120%;
+  padding:10px 15px;
+}
+
+#menu ul li:hover > ul {
+  display:block;
 }
