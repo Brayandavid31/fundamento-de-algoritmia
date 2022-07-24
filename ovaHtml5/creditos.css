@@ -1,20 +1,48 @@
 body.background{
-	min-height: 50%;
-	
-  }
+  min-height: 50%;
+  
+}
 
 
-footer{
-    background-color: rgb(151, 193, 228);
-    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
-    text-align: center;
-   font-size: 15px;
+h1{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 30px;
+    font-weight: bold;
+   
+    color: rgb(255, 255, 255);
+}
+h2{
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 20px;
+    color: rgb(255, 255, 255);
     
+
+}
+
+
+p{
+font-family: Verdana, Geneva, Tahoma, sans-serif;
+font-size: larger;
+font-size: 15px;
+color: rgb(255, 255, 255);
+text-align: justify;
+
+
+}
+h3{ font-family: Verdana, Geneva, Tahoma, sans-serif;
+color: rgb(226, 11, 11);
+
+}
+footer{
+  background-color: rgb(202, 28, 173);
+  font-family:Verdana, Geneva, Tahoma, sans-serif;
+  text-align: center;
+ font-size: 15px;
+  
 }
 .r:hover{
-    background-color: brown;
+  background-color: rgb(69, 42, 165);
 }
-
 #menu ul li {
     background-color:#173768;
 }
